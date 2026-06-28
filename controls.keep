@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls usedStyle="1" useScancodes="true" major="2" minor="5" patch="9">
+	<style type="0">
+		<controls>
+			<binding name="Turn Up" action="1" primaryKey="22" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Turn Down" action="2" primaryKey="26" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Turn Right" action="3" primaryKey="7" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Turn Left" action="4" primaryKey="4" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Roll Right" action="5" primaryKey="8" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Roll Left" action="6" primaryKey="20" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Accelerate" action="7" primaryKey="6" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Brake" action="8" primaryKey="27" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Max Velocity" action="9" primaryKey="25" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Primary Fire" action="10" primaryKey="1" primaryEnabler="-1" primaryDevice="1" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Fire Torpedoes" action="12" primaryKey="10" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Strafe Up" action="13" primaryKey="26" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Strafe Down" action="14" primaryKey="22" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Strafe Left" action="15" primaryKey="4" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Strafe Right" action="16" primaryKey="7" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="All Weapons" action="20" primaryKey="39" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 1" action="21" primaryKey="30" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 2" action="22" primaryKey="31" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 3" action="23" primaryKey="32" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 4" action="24" primaryKey="33" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 5" action="25" primaryKey="34" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 6" action="26" primaryKey="35" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 7" action="27" primaryKey="36" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 8" action="28" primaryKey="37" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 9" action="29" primaryKey="38" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Next Target" action="40" primaryKey="43" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Select" action="41" primaryKey="2" primaryEnabler="-1" primaryDevice="1" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Nearest Enemy" action="43" primaryKey="21" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Next Ally" action="44" primaryKey="11" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Выбрать себя" action="45" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Free Mouse" action="60" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Server Info" action="61" primaryKey="58" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Free Look" action="70" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move Camera" action="71" primaryKey="3" primaryEnabler="-1" primaryDevice="1" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Reset Camera" action="72" primaryKey="225" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Camera Forward" action="73" primaryKey="82" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Camera Backward" action="74" primaryKey="81" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Camera Left" action="75" primaryKey="80" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Camera Right" action="76" primaryKey="79" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Free Camera" action="77" primaryKey="93" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Displace Camera" action="78" primaryKey="226" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Smooth Camera" action="79" primaryKey="94" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Jump / Boost" action="80" primaryKey="44" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Mode" action="81" primaryKey="5" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Enter Ship" action="82" primaryKey="23" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Pause Menu" action="83" primaryKey="41" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Interact" action="84" primaryKey="9" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Galaxy Map" action="86" primaryKey="16" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Player Menu" action="87" primaryKey="19" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Ship Menu" action="88" primaryKey="12" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Chat Window" action="90" primaryKey="40" primaryEnabler="-1" primaryDevice="0" secondaryKey="88" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Mail Window" action="91" primaryKey="15" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="DebugScript" action="92" primaryKey="61" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Open Strategy Mode" action="93" primaryKey="17" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Pause Game" action="94" primaryKey="72" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Accept Hail" action="95" primaryKey="40" primaryEnabler="-1" primaryDevice="0" secondaryKey="88" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Reject Hail" action="96" primaryKey="42" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Dock to Object" action="97" primaryKey="29" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Undock Everything" action="98" primaryKey="29" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Respawn To Repair Dock" action="99" primaryKey="42" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Respawn To Reconstruction Site" action="100" primaryKey="43" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Stop Autopilot" action="119" primaryKey="42" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Swap Controls" action="120" primaryKey="59" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Console" action="121" primaryKey="52" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 1" action="130" primaryKey="30" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 2" action="131" primaryKey="31" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 3" action="132" primaryKey="32" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 4" action="133" primaryKey="33" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 5" action="134" primaryKey="34" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 6" action="135" primaryKey="35" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 7" action="136" primaryKey="36" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 8" action="137" primaryKey="37" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 9" action="138" primaryKey="38" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 10" action="139" primaryKey="39" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Scale Block" action="140" primaryKey="20" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Scale Block" action="141" primaryKey="26" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Scale Block X" action="142" primaryKey="4" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Scale Block Y" action="143" primaryKey="22" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Scale Block Z" action="144" primaryKey="7" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Rotate Blocks" action="145" primaryKey="21" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Delete Block" action="148" primaryKey="76" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Colors" action="150" primaryKey="6" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Inventory" action="151" primaryKey="44" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Focus Block" action="152" primaryKey="9" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Mirror X" action="153" primaryKey="27" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Mirror Y" action="154" primaryKey="28" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Mirror Z" action="155" primaryKey="29" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Turrets" action="156" primaryKey="23" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Blocks" action="157" primaryKey="10" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Saved Designs" action="158" primaryKey="18" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Turret Design Mode" action="159" primaryKey="23" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Mirror Plane X" action="160" primaryKey="27" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Mirror Plane Y" action="161" primaryKey="28" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Mirror Plane Z" action="162" primaryKey="29" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Cancel Scaling" action="163" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Engines" action="180" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Flight Assist" action="181" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Gyros" action="182" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Hyperspace Engine" action="184" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Life Support" action="185" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Shield" action="186" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Integrity" action="187" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Thrusters" action="188" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 1" action="250" primaryKey="30" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 2" action="251" primaryKey="31" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 3" action="252" primaryKey="32" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 4" action="253" primaryKey="33" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 5" action="254" primaryKey="34" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 6" action="255" primaryKey="35" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 7" action="256" primaryKey="36" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 8" action="257" primaryKey="37" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 9" action="258" primaryKey="38" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 10" action="259" primaryKey="39" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Attack" action="270" primaryKey="4" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Defend" action="271" primaryKey="7" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Return" action="272" primaryKey="21" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Collect" action="273" primaryKey="6" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Harvest" action="274" primaryKey="22" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Board" action="275" primaryKey="5" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Repair" action="276" primaryKey="11" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Repair Nearby" action="277" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Collect Loot" action="278" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Attack Order" action="300" primaryKey="4" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Guard Order" action="301" primaryKey="7" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Patrol Order" action="302" primaryKey="20" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Aggressive Order" action="303" primaryKey="26" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Mine Order" action="304" primaryKey="8" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Salvage Order" action="305" primaryKey="6" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Stop Order" action="306" primaryKey="22" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Boarding Order" action="307" primaryKey="5" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Center Camera" action="320" primaryKey="44" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move View" action="322" primaryKey="1" primaryEnabler="-1" primaryDevice="1" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move View Left" action="323" primaryKey="4" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move View Right" action="324" primaryKey="7" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move View Up" action="325" primaryKey="26" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move View Down" action="326" primaryKey="22" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move Strategy Plane Up" action="327" primaryKey="8" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move Strategy Plane Down" action="328" primaryKey="20" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Quick Access 1 (Trading Overview)" action="350" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Quick Access 2 (Object Detector)" action="351" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Quick Access 3 (Autopilot)" action="352" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Quick Access 4" action="353" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Quick Access 5" action="354" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Free Camera" action="355" primaryKey="9" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Take Photo" action="356" primaryKey="44" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Photo Mode /* Mode to make pretty screenshots */" action="357" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Camera Speedup" action="358" primaryKey="225" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Forward" action="359" primaryKey="26" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Backward" action="360" primaryKey="22" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Left" action="361" primaryKey="4" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Right" action="362" primaryKey="7" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Up" action="363" primaryKey="8" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Down" action="364" primaryKey="20" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Roll Left" action="365" primaryKey="29" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Roll Right" action="366" primaryKey="27" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+		</controls>
+	</style>
+	<style type="1">
+		<controls>
+			<binding name="Roll Right" action="5" primaryKey="8" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Roll Left" action="6" primaryKey="20" primaryEnabler="-1" primaryDevice="0" secondaryKey="20" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Forward" action="7" primaryKey="26" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Backward" action="8" primaryKey="22" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Primary Fire" action="10" primaryKey="1" primaryEnabler="-1" primaryDevice="1" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Fire Torpedoes" action="12" primaryKey="10" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Up" action="13" primaryKey="225" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Down" action="14" primaryKey="224" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Left" action="15" primaryKey="4" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Right" action="16" primaryKey="7" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="All Weapons" action="20" primaryKey="39" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 1" action="21" primaryKey="30" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 2" action="22" primaryKey="31" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 3" action="23" primaryKey="32" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 4" action="24" primaryKey="33" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 5" action="25" primaryKey="34" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 6" action="26" primaryKey="35" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 7" action="27" primaryKey="36" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 8" action="28" primaryKey="37" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Weapon Group 9" action="29" primaryKey="38" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Next Target" action="40" primaryKey="11" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Select" action="41" primaryKey="43" primaryEnabler="-1" primaryDevice="0" secondaryKey="2" secondaryEnabler="-1" secondaryDevice="1"/>
+			<binding name="Nearest Enemy" action="43" primaryKey="21" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Next Ally" action="44" primaryKey="28" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Выбрать себя" action="45" primaryKey="13" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Free Mouse" action="60" primaryKey="226" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Server Info" action="61" primaryKey="58" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Free Look" action="70" primaryKey="75" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move Camera" action="71" primaryKey="3" primaryEnabler="-1" primaryDevice="1" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Reset Camera" action="72" primaryKey="78" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Camera Forward" action="73" primaryKey="82" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Camera Backward" action="74" primaryKey="81" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Camera Left" action="75" primaryKey="80" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Camera Right" action="76" primaryKey="79" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Free Camera" action="77" primaryKey="93" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Displace Camera" action="78" primaryKey="230" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Smooth Camera" action="79" primaryKey="94" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Jump / Boost" action="80" primaryKey="44" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Mode" action="81" primaryKey="5" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Enter Ship" action="82" primaryKey="23" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Pause Menu" action="83" primaryKey="41" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Interact" action="84" primaryKey="9" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Galaxy Map" action="86" primaryKey="16" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Player Menu" action="87" primaryKey="19" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Ship Menu" action="88" primaryKey="12" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Chat Window" action="90" primaryKey="40" primaryEnabler="-1" primaryDevice="0" secondaryKey="88" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Mail Window" action="91" primaryKey="15" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="DebugScript" action="92" primaryKey="61" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Open Strategy Mode" action="93" primaryKey="17" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Pause Game" action="94" primaryKey="72" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Accept Hail" action="95" primaryKey="40" primaryEnabler="-1" primaryDevice="0" secondaryKey="88" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Reject Hail" action="96" primaryKey="42" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Dock to Object" action="97" primaryKey="6" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Undock Everything" action="98" primaryKey="6" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Respawn To Repair Dock" action="99" primaryKey="42" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Respawn To Reconstruction Site" action="100" primaryKey="43" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Stop Autopilot" action="119" primaryKey="42" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Swap Controls" action="120" primaryKey="59" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Console" action="121" primaryKey="52" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 1" action="130" primaryKey="30" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 2" action="131" primaryKey="31" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 3" action="132" primaryKey="32" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 4" action="133" primaryKey="33" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 5" action="134" primaryKey="34" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 6" action="135" primaryKey="35" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 7" action="136" primaryKey="36" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 8" action="137" primaryKey="37" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 9" action="138" primaryKey="38" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Build Slot 10" action="139" primaryKey="39" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Scale Block" action="140" primaryKey="20" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Scale Block" action="141" primaryKey="26" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Scale Block X" action="142" primaryKey="4" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Scale Block Y" action="143" primaryKey="22" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Scale Block Z" action="144" primaryKey="7" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Rotate Blocks" action="145" primaryKey="21" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Delete Block" action="148" primaryKey="76" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Colors" action="150" primaryKey="6" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Inventory" action="151" primaryKey="44" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Focus Block" action="152" primaryKey="9" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Mirror X" action="153" primaryKey="27" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Mirror Y" action="154" primaryKey="28" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Mirror Z" action="155" primaryKey="29" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Turrets" action="156" primaryKey="23" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Show Blocks" action="157" primaryKey="10" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Saved Designs" action="158" primaryKey="18" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Turret Design Mode" action="159" primaryKey="23" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Mirror Plane X" action="160" primaryKey="27" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Mirror Plane Y" action="161" primaryKey="28" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Mirror Plane Z" action="162" primaryKey="29" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Cancel Scaling" action="163" primaryKey="29" primaryEnabler="226" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Engines" action="180" primaryKey="29" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Flight Assist" action="181" primaryKey="27" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Gyros" action="182" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Hyperspace Engine" action="184" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Life Support" action="185" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Shield" action="186" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Integrity" action="187" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Thrusters" action="188" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 1" action="250" primaryKey="30" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 2" action="251" primaryKey="31" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 3" action="252" primaryKey="32" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 4" action="253" primaryKey="33" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 5" action="254" primaryKey="34" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 6" action="255" primaryKey="35" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 7" action="256" primaryKey="36" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 8" action="257" primaryKey="37" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 9" action="258" primaryKey="38" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Command Squad 10" action="259" primaryKey="39" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Attack" action="270" primaryKey="4" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Defend" action="271" primaryKey="7" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Return" action="272" primaryKey="21" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Collect" action="273" primaryKey="6" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Harvest" action="274" primaryKey="22" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Board" action="275" primaryKey="5" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Repair" action="276" primaryKey="11" primaryEnabler="225" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Repair Nearby" action="277" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Squad Collect Loot" action="278" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Attack Order" action="300" primaryKey="4" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Guard Order" action="301" primaryKey="7" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Patrol Order" action="302" primaryKey="20" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Aggressive Order" action="303" primaryKey="26" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Mine Order" action="304" primaryKey="8" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Salvage Order" action="305" primaryKey="6" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Stop Order" action="306" primaryKey="22" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Boarding Order" action="307" primaryKey="5" primaryEnabler="224" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Center Camera" action="320" primaryKey="44" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move View" action="322" primaryKey="1" primaryEnabler="-1" primaryDevice="1" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move View Left" action="323" primaryKey="4" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move View Right" action="324" primaryKey="7" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move View Up" action="325" primaryKey="26" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move View Down" action="326" primaryKey="22" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move Strategy Plane Up" action="327" primaryKey="8" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Move Strategy Plane Down" action="328" primaryKey="20" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Quick Access 1 (Trading Overview)" action="350" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Quick Access 2 (Object Detector)" action="351" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Quick Access 3 (Autopilot)" action="352" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Quick Access 4" action="353" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Quick Access 5" action="354" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Toggle Free Camera" action="355" primaryKey="9" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Take Photo" action="356" primaryKey="44" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Photo Mode /* Mode to make pretty screenshots */" action="357" primaryKey="-1" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Camera Speedup" action="358" primaryKey="225" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Forward" action="359" primaryKey="26" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Backward" action="360" primaryKey="22" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Left" action="361" primaryKey="4" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Right" action="362" primaryKey="7" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Up" action="363" primaryKey="8" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Down" action="364" primaryKey="20" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Roll Left" action="365" primaryKey="29" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+			<binding name="Roll Right" action="366" primaryKey="27" primaryEnabler="-1" primaryDevice="0" secondaryKey="-1" secondaryEnabler="-1" secondaryDevice="0"/>
+		</controls>
+	</style>
+</Controls>
