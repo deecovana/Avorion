@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ship_design_auto_-8180171628104891019>
+	<plan accumulateHealth="true" convex="false">
+		<item parent="-1" index="0">
+			<block lx="-1" ly="-1" lz="-1" ux="1" uy="1" uz="1" index="52" material="1" look="1" up="3" color="bfbfbfbf" secondaryColor="00000000"/>
+		</item>
+		<item parent="0" index="9">
+			<block lx="-3" ly="-1" lz="-1" ux="-1" uy="1" uz="4" index="102" material="0" look="1" up="3" color="ffbfaea3" secondaryColor="00000000"/>
+		</item>
+		<item parent="0" index="8">
+			<block lx="1" ly="-1" lz="-1" ux="3" uy="1" uz="4" index="102" material="0" look="2" up="1" color="ffbfaea3" secondaryColor="00000000"/>
+		</item>
+		<item parent="8" index="10">
+			<block lx="1" ly="-1" lz="4" ux="3" uy="1" uz="9" index="101" material="0" look="2" up="1" color="ffbfaea3" secondaryColor="00000000"/>
+		</item>
+		<item parent="9" index="11">
+			<block lx="-3" ly="-1" lz="4" ux="-1" uy="1" uz="9" index="101" material="0" look="1" up="3" color="ffbfaea3" secondaryColor="00000000"/>
+		</item>
+		<item parent="9" index="12">
+			<block lx="-3" ly="-3" lz="-0.999999523" ux="-1" uy="-1" uz="3.99999952" index="102" material="0" look="3" up="0" color="ffbfaea3" secondaryColor="00000000"/>
+		</item>
+		<item parent="12" index="13">
+			<block lx="-3" ly="-3" lz="3.99999952" ux="-1" uy="-1" uz="8.99999905" index="101" material="0" look="3" up="0" color="ffbfaea3" secondaryColor="00000000"/>
+		</item>
+		<item parent="0" index="14">
+			<block lx="1" ly="-3" lz="-0.999999523" ux="3" uy="-1" uz="3.99999952" index="102" material="0" look="0" up="2" color="ffbfaea3" secondaryColor="00000000"/>
+		</item>
+		<item parent="14" index="15">
+			<block lx="1" ly="-3" lz="3.99999952" ux="3" uy="-1" uz="8.99999905" index="101" material="0" look="0" up="2" color="ffbfaea3" secondaryColor="00000000"/>
+		</item>
+		<item parent="0" index="16">
+			<block lx="-1" ly="-3.00000024" lz="-1" ux="1" uy="-1.00000024" uz="1" index="51" material="1" look="1" up="3" color="bfbfbfbf" secondaryColor="00000000"/>
+		</item>
+		<item parent="8" index="17">
+			<block lx="1" ly="1" lz="-1" ux="3" uy="3" uz="4" index="115" material="0" look="4" up="3" color="bfbfbfbf" secondaryColor="00000000"/>
+		</item>
+		<item parent="0" index="18">
+			<block lx="-3" ly="1" lz="-1" ux="-1" uy="3" uz="4" index="115" material="0" look="1" up="3" color="bfbfbfbf" secondaryColor="00000000"/>
+		</item>
+	</plan>
+</ship_design_auto_-8180171628104891019>
