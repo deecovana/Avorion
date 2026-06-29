@@ -7,3 +7,4 @@
 ## Default Expert started
 
 - First ship, second version
+- Continue titan farm

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ship_design>
+<ship_design_auto_1103188136199038259>
 	<plan accumulateHealth="true" convex="false">
 		<item parent="-1" index="0">
 			<block lx="-1" ly="0" lz="-2.99999905" ux="1" uy="2" uz="-0.999999046" index="52" material="1" look="1" up="3" color="fffffafa" secondaryColor="ff141414"/>
 		</item>
 		<item parent="0" index="9">
-			<block lx="-3" ly="0" lz="-2.99999905" ux="-1" uy="2" uz="2.00000095" index="116" material="0" look="1" up="3" color="fffffafa" secondaryColor="ff141414"/>
+			<block lx="-3" ly="0" lz="-2.99999905" ux="-1" uy="2" uz="2.00000095" index="102" material="0" look="1" up="3" color="fffffafa" secondaryColor="ff141414"/>
 		</item>
 		<item parent="0" index="8">
-			<block lx="1" ly="0" lz="-2.99999905" ux="3" uy="2" uz="2.00000095" index="116" material="0" look="0" up="5" color="fffffafa" secondaryColor="ff141414"/>
+			<block lx="1" ly="0" lz="-2.99999905" ux="3" uy="2" uz="2.00000095" index="102" material="0" look="2" up="1" color="fffffafa" secondaryColor="ff141414"/>
 		</item>
 		<item parent="8" index="10">
 			<block lx="1" ly="0" lz="2.00000095" ux="3" uy="2" uz="7.00000095" index="101" material="0" look="2" up="1" color="fffffafa" secondaryColor="ff141414"/>
@@ -17,13 +17,13 @@
 			<block lx="-3" ly="0" lz="2.00000095" ux="-1" uy="2" uz="7.00000095" index="101" material="0" look="1" up="3" color="fffffafa" secondaryColor="ff141414"/>
 		</item>
 		<item parent="9" index="12">
-			<block lx="-3" ly="-2" lz="-2.99999857" ux="-1" uy="0" uz="2.00000048" index="116" material="0" look="3" up="0" color="fffffafa" secondaryColor="ff141414"/>
+			<block lx="-3" ly="-2" lz="-2.99999857" ux="-1" uy="0" uz="2.00000048" index="102" material="0" look="3" up="0" color="fffffafa" secondaryColor="ff141414"/>
 		</item>
 		<item parent="12" index="13">
 			<block lx="-3" ly="-2" lz="2.00000048" ux="-1" uy="0" uz="7" index="101" material="0" look="3" up="0" color="fffffafa" secondaryColor="ff141414"/>
 		</item>
 		<item parent="0" index="14">
-			<block lx="1" ly="-2" lz="-2.99999857" ux="3" uy="0" uz="2.00000048" index="116" material="0" look="0" up="2" color="fffffafa" secondaryColor="ff141414"/>
+			<block lx="1" ly="-2" lz="-2.99999857" ux="3" uy="0" uz="2.00000048" index="102" material="0" look="0" up="2" color="fffffafa" secondaryColor="ff141414"/>
 		</item>
 		<item parent="14" index="15">
 			<block lx="1" ly="-2" lz="2.00000048" ux="3" uy="0" uz="7" index="101" material="0" look="0" up="2" color="fffffafa" secondaryColor="ff141414"/>
@@ -50,10 +50,10 @@
 			<block lx="-1.00000024" ly="1" lz="2.00000095" ux="0.999999762" uy="2" uz="4.50000095" index="100" material="0" look="4" up="3" color="fffffafa" secondaryColor="ff141414"/>
 		</item>
 		<item parent="18" index="23">
-			<block lx="-0.999999523" ly="2" lz="-2.99999905" ux="1.00000048" uy="4" uz="2.00000095" index="114" material="0" look="2" up="5" color="fffffafa" secondaryColor="ff141414"/>
+			<block lx="-0.999999523" ly="2" lz="-2.99999905" ux="1.00000048" uy="4" uz="2.00000095" index="100" material="0" look="4" up="3" color="fffffafa" secondaryColor="ff141414"/>
 		</item>
 		<item parent="20" index="24">
-			<block lx="-1" ly="-4" lz="-2.99999857" ux="1" uy="-2" uz="2.00000048" index="114" material="0" look="3" up="5" color="fffffafa" secondaryColor="ff141414"/>
+			<block lx="-1" ly="-4" lz="-2.99999857" ux="1" uy="-2" uz="2.00000048" index="100" material="0" look="4" up="2" color="fffffafa" secondaryColor="ff141414"/>
 		</item>
 		<item parent="12" index="25">
 			<block lx="-1.00000024" ly="-2.00000048" lz="2.00000095" ux="0.999999762" uy="-1.00000048" uz="4.50000095" index="100" material="0" look="4" up="2" color="fffffafa" secondaryColor="ff141414"/>
@@ -149,4 +149,4 @@
 			<block lx="4.99999952" ly="0" lz="-6.99999905" ux="6.99999857" uy="2" uz="-4.99999905" index="7" material="0" look="1" up="3" color="fffffafa" secondaryColor="ff141414"/>
 		</item>
 	</plan>
-</ship_design>
+</ship_design_auto_1103188136199038259>
