@@ -9,5 +9,7 @@
 - First ship, second version
 - Continue titan farm
 - Save Third Ship!!! Farm Titan more!!!
-  - Third aka Junpa aka FBJ
+  - Third aka Jumpa aka FBJ
   - Start use Raw Miners
+- Jumpa becomes Miner
+- Naonite found
