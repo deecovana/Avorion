@@ -1,8 +1,10 @@
 # Avorion_Default GitHub @deecovana repo (CC4 2012-2026)
 ## Start new Default in Avorion_Default repo
 
-## Wow Rifts eats stars 
+## Wow Rifts eats stars
+- Missing stars and routes 
   - and Factions generated have low standing
+- Need to restore PreciseAIAim=false = iCANT intercept pirates
 
 ## Increase gameplay
 - Because its TOO slow
