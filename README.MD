@@ -4,7 +4,7 @@
 ## Increase gameplay
 - Because its TOO slow
 - set 
-  Difficulty=3 
+  Scenario=3 Difficulty=1 
   EventsFactor=3 
   MapFactions=1000 
   Rifts=400
