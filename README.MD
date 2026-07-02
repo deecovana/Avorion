@@ -1,6 +1,9 @@
 # Avorion_Default GitHub @deecovana repo (CC4 2012-2026)
 ## Start new Default in Avorion_Default repo
 
+## Wow Rifts eats stars 
+  - and Factions generated have low standing
+
 ## Increase gameplay
 - Because its TOO slow
 - set 
