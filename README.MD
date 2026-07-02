@@ -8,6 +8,8 @@
   EventsFactor=3 
   MapFactions=1000 
   Rifts=400
+- continue open Naonite tech 
+  - 56k Naon needed
 
 ## Default Expert started
 - First ship, second version
