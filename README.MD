@@ -4,6 +4,8 @@
 ## Continue Dee's Default Server 
 - modified Events, Factions and Invasions x3
 - Added ships/added-ships from the past galaxies
+- Added hardlink to root into ships subfolder; 
+  - added it to gitignore
 
 ## Wow Rifts eats stars
 - Missing stars and routes 
