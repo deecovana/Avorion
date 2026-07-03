@@ -2,7 +2,8 @@
 ## Start new Default in Avorion_Default repo
 
 ## Continue Dee's Default Server 
-  - modified Events, Factions and Invasions x3
+- modified Events, Factions and Invasions x3
+- Added ships/added-ships from the past galaxies
 
 ## Wow Rifts eats stars
 - Missing stars and routes 

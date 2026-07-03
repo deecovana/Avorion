@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ship_design>
+	<plan accumulateHealth="true" convex="false">
+		<item parent="-1" index="0">
+			<block lx="6.41782904" ly="4.4431119" lz="-12.1938744" ux="11.3546209" uy="6.41782856" uz="-6.2697258" index="5" material="1" look="1" up="3" color="ff436eee" secondaryColor="ff8b0a50"/>
+		</item>
+		<item parent="0" index="1">
+			<block lx="10.8609409" ly="3.94943309" lz="-12.1938744" ux="11.3546209" uy="4.4431119" uz="-6.2697258" index="100" material="1" look="0" up="2" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="0" index="2">
+			<block lx="6.41782904" ly="3.94943261" lz="-12.1938744" ux="6.91150808" uy="4.4431119" uz="-6.2697258" index="100" material="1" look="1" up="2" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="0" index="3">
+			<block lx="6.91150808" ly="3.94943285" lz="-12.6875553" ux="10.8609409" uy="4.4431119" uz="-12.1938744" index="100" material="1" look="3" up="4" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="0" index="4">
+			<block lx="10.8609409" ly="4.4431119" lz="-12.6875553" ux="11.3546209" uy="6.41782856" uz="-12.1938744" index="100" material="1" look="0" up="4" color="ff090934" secondaryColor="00000000"/>
+		</item>
+		<item parent="0" index="5">
+			<block lx="10.8609409" ly="3.94943309" lz="-12.6875553" ux="11.3546209" uy="4.4431119" uz="-12.1938744" index="101" material="1" look="0" up="4" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="0" index="10">
+			<block lx="6.91150856" ly="4.43047047" lz="-6.2697258" ux="10.8609409" uy="6.43047047" uz="-5.77604485" index="5" material="1" look="1" up="3" color="ff436eee" secondaryColor="ff8b0a50"/>
+		</item>
+		<item parent="3" index="6">
+			<block lx="6.91150808" ly="4.44311237" lz="-12.6875553" ux="10.86094" uy="6.44311237" uz="-12.1938744" index="5" material="1" look="1" up="3" color="ff436eee" secondaryColor="ff8b0a50"/>
+		</item>
+		<item parent="10" index="9">
+			<block lx="6.91150761" ly="3.93679118" lz="-6.2697258" ux="10.8609409" uy="4.43047047" uz="-5.77604485" index="100" material="1" look="3" up="5" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="10" index="13">
+			<block lx="10.8609409" ly="4.4431119" lz="-6.2697258" ux="11.35462" uy="6.41782856" uz="-5.77604485" index="100" material="1" look="4" up="1" color="ff090934" secondaryColor="00000000"/>
+		</item>
+		<item parent="6" index="7">
+			<block lx="6.41782904" ly="4.4557538" lz="-12.6875553" ux="6.91150808" uy="6.43047047" uz="-12.1938744" index="100" material="1" look="5" up="0" color="ff090934" secondaryColor="00000000"/>
+		</item>
+		<item parent="6" index="15">
+			<block lx="6.91150665" ly="6.44311237" lz="-12.6875553" ux="10.86094" uy="6.93679142" uz="-12.1938744" index="100" material="1" look="2" up="4" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="9" index="11">
+			<block lx="6.41782761" ly="4.43047047" lz="-6.2697258" ux="6.91150761" uy="6.40518665" uz="-5.77604485" index="100" material="1" look="1" up="5" color="ff090934" secondaryColor="00000000"/>
+		</item>
+		<item parent="9" index="12">
+			<block lx="6.41782761" ly="3.93679142" lz="-6.2697258" ux="6.91150761" uy="4.43047047" uz="-5.77604485" index="101" material="1" look="1" up="5" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="13" index="14">
+			<block lx="10.8609409" ly="3.94943309" lz="-6.2697258" ux="11.35462" uy="4.4431119" uz="-5.77604485" index="101" material="1" look="0" up="2" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="7" index="8">
+			<block lx="6.41782904" ly="3.96207476" lz="-12.6875553" ux="6.91150808" uy="4.4557538" uz="-12.1938744" index="101" material="1" look="1" up="2" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="15" index="16">
+			<block lx="6.41782713" ly="6.44311237" lz="-12.6875553" ux="6.91150665" uy="6.93679142" uz="-12.1938744" index="101" material="1" look="1" up="4" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="15" index="17">
+			<block lx="10.86094" ly="6.43047047" lz="-12.1938744" ux="11.35462" uy="6.92414951" uz="-6.2697258" index="100" material="1" look="0" up="3" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="15" index="18">
+			<block lx="6.41782856" ly="6.43047047" lz="-12.1938744" ux="6.91150761" uy="6.92414999" uz="-6.2697258" index="100" material="1" look="1" up="3" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="15" index="19">
+			<block lx="10.86094" ly="6.43047094" lz="-12.6875553" ux="11.3546181" uy="6.92414951" uz="-12.1938744" index="101" material="1" look="0" up="3" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="15" index="23">
+			<block lx="6.91150665" ly="6.44311237" lz="-12.1938744" ux="10.860939" uy="6.93679142" uz="-6.2697258" index="5" material="1" look="1" up="3" color="ff436eee" secondaryColor="ff8b0a50"/>
+		</item>
+		<item parent="17" index="20">
+			<block lx="6.91150761" ly="6.43047047" lz="-6.2697258" ux="10.86094" uy="6.92414951" uz="-5.77604485" index="100" material="1" look="2" up="5" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="17" index="21">
+			<block lx="10.86094" ly="6.43047047" lz="-6.2697258" ux="11.35462" uy="6.92414904" uz="-5.77604485" index="101" material="1" look="0" up="5" color="ff666666" secondaryColor="00000000"/>
+		</item>
+		<item parent="18" index="22">
+			<block lx="6.41782856" ly="6.41782856" lz="-6.2697258" ux="6.91150761" uy="6.91150761" uz="-5.77604485" index="101" material="1" look="1" up="3" color="ff666666" secondaryColor="00000000"/>
+		</item>
+	</plan>
+</ship_design>

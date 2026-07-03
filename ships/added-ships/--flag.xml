@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ship_design>
+	<plan accumulateHealth="true" convex="false">
+		<item parent="-1" index="0">
+			<block lx="15.7562037" ly="-0.535209477" lz="11.9964046" ux="17.8139801" uy="1.5225668" uz="12.0992928" index="150" material="0" look="1" up="3" color="ff8b0a50" secondaryColor="ffffbbff"/>
+		</item>
+		<item parent="0" index="1">
+			<block lx="17.6850929" ly="1.5225668" lz="11.9878483" ux="17.80509" uy="8.48256683" uz="12.1078491" index="150" material="0" look="1" up="3" color="ffffbbff" secondaryColor="ff090934"/>
+		</item>
+		<item parent="0" index="2">
+			<block lx="15.7650919" ly="1.5225668" lz="11.9878483" ux="15.8850908" uy="8.48256683" uz="12.1078491" index="150" material="0" look="1" up="3" color="ffffbbff" secondaryColor="ff090934"/>
+		</item>
+		<item parent="1" index="4">
+			<block lx="17.6950912" ly="7.50256634" lz="10.9878483" ux="17.7950897" uy="8.50256824" uz="11.9878483" index="650" material="1" look="0" up="3" color="ff8b0a50" secondaryColor="ffffbbff"/>
+		</item>
+		<item parent="2" index="3">
+			<block lx="15.7750921" ly="7.50256729" lz="10.9878483" ux="15.8750906" uy="8.50256729" uz="11.9878483" index="650" material="1" look="1" up="3" color="ff8b0a50" secondaryColor="ffffbbff"/>
+		</item>
+	</plan>
+</ship_design>
