@@ -1,6 +1,9 @@
 # Avorion_Default GitHub @deecovana repo (CC4 2012-2026)
 ## Start new Default in Avorion_Default repo
 
+## Continue Dee's Default Server 
+  - modified Events, Factions and Invasions x3
+
 ## Wow Rifts eats stars
 - Missing stars and routes 
   - and Factions generated have low standing
