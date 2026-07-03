@@ -3,6 +3,8 @@
 
 ## Continue Dee's Default Server 
 - modified Events, Factions and Invasions x3
+  - BigWreckageDespawnTime=3600 
+  - SmallWreckageDespawnTime=1800
 - Added ships/added-ships from the past galaxies
 - Added hardlink to root into ships subfolder; 
   - added it to gitignore
