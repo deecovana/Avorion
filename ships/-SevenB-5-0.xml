@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ship_design_auto_-4562605431002575296>
+<ship_design>
 	<plan accumulateHealth="true" convex="false">
 		<item parent="-1" index="0">
 			<block lx="-0.940132022" ly="5.96043682" lz="-8.72360611" ux="0.940132022" uy="8.78083324" uz="-5.90320921" index="5" material="1" look="1" up="3" color="ffff0000" secondaryColor="00000000"/>
@@ -1904,10 +1904,10 @@
 			<block lx="-1.31618476" ly="-1.35379028" lz="5.33136797" ux="-1.12815845" uy="-1.16576481" uz="5.51939535" index="100" material="1" look="0" up="4" color="fffa2626" secondaryColor="fffffafa"/>
 		</item>
 		<item parent="346" index="1250">
-			<block lx="-2.35033011" ly="2.66997433" lz="7.49367285" ux="-0.470066071" uy="6.43050289" uz="7.59367323" index="104" material="1" look="2" up="5" color="fffa2626" secondaryColor="fffffafa"/>
+			<block lx="-2.35033011" ly="2.66997433" lz="7.49367285" ux="-0.470066071" uy="6.43050289" uz="7.59367323" index="150" material="1" look="1" up="3" color="fff08080" secondaryColor="fff08080"/>
 		</item>
 		<item parent="319" index="1249">
-			<block lx="0.470066071" ly="2.66997433" lz="7.49367285" ux="2.35033011" uy="6.43050289" uz="7.59367323" index="104" material="1" look="2" up="5" color="fffa2626" secondaryColor="fffffafa"/>
+			<block lx="0.470066071" ly="2.66997433" lz="7.49367285" ux="2.35033011" uy="6.43050289" uz="7.59367323" index="150" material="1" look="1" up="3" color="fff08080" secondaryColor="fff08080"/>
 		</item>
 		<item parent="292" index="1248">
 			<block lx="-5.1707263" ly="2.66997433" lz="8.90386963" ux="-3.29046202" uy="6.43050289" uz="9.00387001" index="104" material="1" look="2" up="5" color="fffa2626" secondaryColor="fffffafa"/>
@@ -3080,4 +3080,4 @@
 			<block lx="-1.88026404" ly="6.49037075" lz="-3.55287933" ux="1.88026404" uy="7.29037094" uz="2.08791304" index="104" material="1" look="4" up="3" color="fffa2626" secondaryColor="fffffafa"/>
 		</item>
 	</plan>
-</ship_design_auto_-4562605431002575296>
+</ship_design>
