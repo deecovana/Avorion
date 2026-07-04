@@ -11,6 +11,9 @@
     - Обратите внимание: при удалении через меню флота ресурсы за сам корабль не возвращаются, 
     но это единственный способ избавиться от него на огромном расстоянии.
 
+- Ships deleted, current was sent to mining, 
+- ready to rebuild lost ships
+
 ## Continue Dee's Default Server 
 - modified Events, Factions and Invasions x3
   - BigWreckageDespawnTime=3600 
