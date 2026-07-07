@@ -1,5 +1,7 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
+## Continue farm 10m for Electro facility
+
 ## Delete FarAway lost ships (rus)
 Как удалить потерянные за барьером корабли удаленно:
   1. Откройте Меню игрока (клавиша I по умолчанию).
