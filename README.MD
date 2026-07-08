@@ -4,7 +4,6 @@
 - Upgrade all ships to 40kHP minimum and 1kDPS
 
 ## Cleanup Git:
-## Git LFS todos:
 - Use git lfs prune options: Test first:
   1. git lfs prune --dry-run -c -v 
   2. git lfs prune -c -v 
@@ -15,6 +14,8 @@
   2. git clean -f
 - Add galaxy default.zip to LFS Recompress to update
   - Recompress to update
+- Add first backup of default galaxy
+- Add \_\_hold/ backups to store backups out of repository 
 
 ## Delete FarAway lost ships (rus)
 Как удалить потерянные за барьером корабли удаленно:
