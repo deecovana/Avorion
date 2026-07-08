@@ -1,6 +1,8 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
 ## Continue farm 10m for Electro facility
+- Upgrade all ships to 40kHP minimum and 1kDPS
+
 
 ## Delete FarAway lost ships (rus)
 Как удалить потерянные за барьером корабли удаленно:
