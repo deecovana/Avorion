@@ -3,6 +3,15 @@
 ## Continue farm 10m for Electro facility
 - Upgrade all ships to 40kHP minimum and 1kDPS
 
+## Cleanup Git:
+- Use git lfs prune options: Test first:
+  1. git lfs prune --dry-run -c -v 
+  2. git lfs prune -c -v 
+  3. git lfs prune --force
+- Also use git clean: Test first, Force second:
+  1. git clean -n
+  2. git clean -f
+
 
 ## Delete FarAway lost ships (rus)
 Как удалить потерянные за барьером корабли удаленно:
