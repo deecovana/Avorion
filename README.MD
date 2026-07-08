@@ -11,7 +11,8 @@
 - Also use git clean: Test first, Force second:
   1. git clean -n
   2. git clean -f
-
+- Add galaxy default.zip to LFS Recompress to update
+  - Recompress to update
 
 ## Delete FarAway lost ships (rus)
 Как удалить потерянные за барьером корабли удаленно:
