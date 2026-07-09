@@ -1,5 +1,6 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
+## 2 uber-TOs ready to kill Sasquages
 
 ## Continue farm 10m for Electro facility
 - Garbagers reprodicing Guns to Parts
