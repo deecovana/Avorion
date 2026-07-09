@@ -2,7 +2,10 @@
 
 
 ## Continue farm 10m for Electro facility
-
+- Garbagers reprodicing Guns to Parts
+- Start create Turrets
+  - Create 4 double Rails for Eleven's party
+  - Go kill some bosses in 370+ ring
 
 ## Continue farm 10m for Electro facility
 - Upgrade all ships to 40kHP minimum and 1kDPS
