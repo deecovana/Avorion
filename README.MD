@@ -4,6 +4,7 @@
 - Up to 3 threads: generatorThreads=3 scriptBackgroundThreads=3
 - Update inis and tag fix-settings
 - Delete 1280x settings
+- retag fix-settings
 
 ## 2 uber-TOs ready to kill Sasquages
 - 2 ships dead by enemy faction, all torpedos lost
