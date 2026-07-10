@@ -1,6 +1,7 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
 ## 2 uber-TOs ready to kill Sasquages
+- 2 ships dead by enemy faction, all torpedos lost
 
 ## Continue farm 10m for Electro facility
 - Garbagers reprodicing Guns to Parts
