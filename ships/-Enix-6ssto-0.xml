@@ -394,8 +394,8 @@
 		<item parent="716" index="730">
 			<block lx="-1.90621066" ly="0.869376302" lz="7.65260077" ux="-1.67746544" uy="1.09812188" uz="7.88134527" index="100" material="2" look="0" up="4" color="ff00ee00" secondaryColor="ff000080"/>
 		</item>
-		<item parent="1148" index="1251">
-			<block lx="-0.331210434" ly="1.50874901" lz="14.9265909" ux="0.368789375" uy="2.90874863" uz="15.6265917" index="20" material="2" look="1" up="3" color="ff00ee00" secondaryColor="ff000080"/>
+		<item parent="1431" index="1449">
+			<block lx="-0.762484312" ly="1.94623375" lz="4.59311008" ux="0.837515712" uy="2.54623318" uz="7.69311237" index="15" material="0" look="1" up="3" color="ff00ee00" secondaryColor="ff000080"/>
 		</item>
 		<item parent="926" index="1064">
 			<block lx="4.57490492" ly="-3.79997849" lz="-14.6655912" ux="5.97490501" uy="-3.65997791" uz="-7.66558838" index="21" material="2" look="0" up="4" color="ff00ee00" secondaryColor="ff000080"/>
@@ -2058,6 +2058,18 @@
 		</item>
 		<item parent="1259" index="1430">
 			<block lx="6.47360134" ly="-2.92121863" lz="-6.88068581" ux="8.01360226" uy="-0.541218996" uz="-6.68068314" index="3" material="2" look="1" up="3" color="ff00ee00" secondaryColor="ff00ee00"/>
+		</item>
+		<item parent="1395" index="1431">
+			<block lx="-2.36248422" ly="0.221264839" lz="4.59311008" ux="-0.762484312" uy="2.9462328" uz="7.69311237" index="15" material="0" look="1" up="3" color="ff00ee00" secondaryColor="ff000080"/>
+		</item>
+		<item parent="235" index="1432">
+			<block lx="0.762484312" ly="0.221264839" lz="4.59311008" ux="2.36248422" uy="2.9462328" uz="7.69311237" index="15" material="0" look="1" up="3" color="ff00ee00" secondaryColor="ff000080"/>
+		</item>
+		<item parent="1396" index="1433">
+			<block lx="0.762484312" ly="1.74623346" lz="-1.70689249" ux="2.36248422" uy="1.94623351" uz="4.59311008" index="15" material="0" look="1" up="3" color="ff00ee00" secondaryColor="ff000080"/>
+		</item>
+		<item parent="51" index="1434">
+			<block lx="-2.36248422" ly="1.74623346" lz="-1.70689249" ux="-0.762484312" uy="1.94623351" uz="4.59311008" index="15" material="0" look="1" up="3" color="ff00ee00" secondaryColor="ff000080"/>
 		</item>
 	</plan>
 </ship_design>
