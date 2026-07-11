@@ -1,6 +1,7 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
 ## Build Electric Power Plant First
+- Built new ship to save 2 old ships
 
 ## Update settings
 - Up to 3 threads: generatorThreads=3 scriptBackgroundThreads=3
