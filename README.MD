@@ -1,10 +1,14 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
+## Build Electric Power Plant First
+
 ## Update settings
 - Up to 3 threads: generatorThreads=3 scriptBackgroundThreads=3
 - Update inis and tag fix-settings
 - Delete 1280x settings
 - retag fix-settings
+- Start build first Station 
+  - Save ship first !!!
 
 ## 2 uber-TOs ready to kill Sasquages
 - 2 ships dead by enemy faction, all torpedos lost
