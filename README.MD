@@ -2,6 +2,7 @@
 
 ## Build Electric Power Plant First
 - Built new ship to save 2 old ships
+- Ships saved. Sasquage farmed. Start to build first station.
 
 ## Update settings
 - Up to 3 threads: generatorThreads=3 scriptBackgroundThreads=3
