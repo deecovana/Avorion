@@ -1,5 +1,12 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
+## TT begin 
+- 2 ships upgrading, need 3
+
+## Save all ships
+- Fleet more 11 
+- Need TT - Farming!
+
 ## Build Electric Power Plant First
 - Built new ship to save 2 old ships
 - Ships saved. Sasquage farmed. Start to build first station.
@@ -11,10 +18,6 @@
 - retag fix-settings
 - Start build first Station 
   - Save ship first !!!
-
-## Save all ships
-- Fleet more 10 ships 
-- Need TT - Farming!
 
 ## 2 uber-TOs ready to kill Sasquages
 - 2 ships dead by enemy faction, all torpedos lost
