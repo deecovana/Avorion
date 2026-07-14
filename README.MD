@@ -1,7 +1,7 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
 ## TT begin 
-- 2 ships upgrading, need 3
+- 2 ships saved, need 3
 
 ## Save all ships
 - Fleet more 11 
