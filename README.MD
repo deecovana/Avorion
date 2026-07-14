@@ -12,6 +12,10 @@
 - Start build first Station 
   - Save ship first !!!
 
+## Save all ships
+- Fleet more 10 ships 
+- Need TT  - Farming!
+
 ## 2 uber-TOs ready to kill Sasquages
 - 2 ships dead by enemy faction, all torpedos lost
 
