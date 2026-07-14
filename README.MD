@@ -2,6 +2,7 @@
 
 ## TT begin 
 - 2 ships saved, need 3
+- continue build TTs
 
 ## Save all ships
 - Fleet more 11 
