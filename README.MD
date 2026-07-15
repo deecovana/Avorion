@@ -1,5 +1,9 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
+## Fix freases: 
+- Decrease WreckageDespawnTime triple 
+- Limit FightersPerSectorAndPlayer=100
+
 ## TT begin 
 - 2 ships saved, need 3
 - continue build TTs
