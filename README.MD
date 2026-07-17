@@ -1,6 +1,7 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
 ## UberMiner 5k Cargo from TT
+- Build ES at marked location in 400+ coordinate
 - Investigate Abordage
 
 ## Fix freases: 
