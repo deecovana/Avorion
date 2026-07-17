@@ -1,6 +1,7 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
 ## UberMiner 5k Cargo from TT
+- Investigate Abordage
 
 ## Fix freases: 
 - Decrease WreckageDespawnTime triple 
