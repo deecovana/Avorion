@@ -1,5 +1,12 @@
 # Avorion (ex:Avorion_Default) GitHub @deecovana repo (CC4 2012-2026)
 
+## Startup
+- Built 2x 3f ships, Miner and Salvager
+- Upgraded to 5t
+- Continue upgrade than: 
+  - Play the Story
+  - Find the boss
+
 ## Begin new game
 - move old ships into backup-ships folder
 
